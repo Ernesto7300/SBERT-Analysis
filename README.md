@@ -84,5 +84,49 @@ These questions are central to the broader thesis work on:
 
 ---
 
-## Structure of the Repository
+## Structure
+
+Structure may evolve as the analysis progresses.
+
+---
+
+
+## Reproducibility
+
+- All experiments are intentionally small-scale and transparent.
+- Background knowledge is **explicit and inspectable**.
+- Heuristics are preferred over opaque pipelines when possible.
+- No hidden fine-tuning or proprietary datasets are used.
+
+---
+
+## Relation to the Thesis
+
+This repository serves as a **technical appendix and experimental sandbox** for the thesis.
+
+Its role is to:
+- ground philosophical claims in concrete experiments
+- demonstrate limits as well as successes
+- avoid overclaiming semantic or cognitive capabilities of embeddings
+
+Results from this repository are intended to inform:
+- theoretical discussion
+- negative results
+- design constraints for hybrid symbolic–statistical systems
+
+---
+
+## Status
+
+This is **work in progress**.
+Code, structure, and conclusions are expected to evolve as the thesis advances.
+
+---
+
+## License
+
+This repository is intended for academic and research purposes.
+Licensing details will be added once the structure stabilizes.
+
+
 
